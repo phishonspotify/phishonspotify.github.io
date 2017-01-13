@@ -6,3 +6,4 @@ print data
 
 for i in data['items']:
 	print i['id']
+	print i['name']
